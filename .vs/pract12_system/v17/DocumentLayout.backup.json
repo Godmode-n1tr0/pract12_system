@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Documents\\Shengals\\pract12_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701B001F-34E9-4908-9E31-21C49653ABC8}|..\\client\\client.vcxproj|C:\\Users\\st310-07\\Documents\\Shengals\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC8BE21-83B2-41DE-8632-9E18C3808B47}|pract12_system.vcxproj|C:\\Users\\st310-07\\Documents\\Shengals\\pract12_system\\pract12_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC8BE21-83B2-41DE-8632-9E18C3808B47}|pract12_system.vcxproj|solutionrelative:pract12_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\Shengals\\client\\client.cpp",
+              "RelativeDocumentMoniker": "..\\client\\client.cpp",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\Shengals\\client\\client.cpp",
+              "RelativeToolTip": "..\\client\\client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T07:42:24.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pract12_system.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\Shengals\\pract12_system\\pract12_system.cpp",
+              "RelativeDocumentMoniker": "pract12_system.cpp",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\Shengals\\pract12_system\\pract12_system.cpp",
+              "RelativeToolTip": "pract12_system.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T04:01:41.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

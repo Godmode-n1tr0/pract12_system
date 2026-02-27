@@ -1,0 +1,4 @@
+﻿  pract12_system.cpp
+C:\Users\st310-07\Documents\Shengals\pract12_system\pract12_system.cpp(24,24): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\st310-07\Documents\Shengals\pract12_system\pract12_system.cpp(55,42): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  pract12_system.vcxproj -> C:\Users\st310-07\Documents\Shengals\pract12_system\x64\Debug\pract12_system.exe
